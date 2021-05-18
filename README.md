@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danjovich
 - 👀 I’m interested in AI, machine learning, web development and programming in general
-- 🌱 I’m currently learning machine learning in python
+- 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on nothing special right now, once I'm still in college
 - 📫 How to reach me: danjovich@usp.br
 
