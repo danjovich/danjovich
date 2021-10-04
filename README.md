@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @danjovich
-- 👀 I’m interested in AI, machine learning, web development and programming in general
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on nothing special right now, once I'm still in college
-- 📫 How to reach me: danjovich@usp.br
+- 👀 I’m interested in web development and programming in general
+- 🌱 I’m currently learning back-end web development
+- 📫 How to reach me: danjovich@usp.br or daniel.carvalho@polijunior.com.br
 
 <!---
 danjovich/danjovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
