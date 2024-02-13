@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danjovich
 - 👀 I’m interested in web development, programming languages and programming in general
-- 🌱 I’m currently learning interpreters and compilers development
+- 🌱 I’m currently learning interpreter and compiler development
 - 📫 How to reach me: danjovich@usp.br
 
 <!---
