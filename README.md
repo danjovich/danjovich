@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @danjovich
-- 👀 I’m interested in web development, programming languages and programming in general
-- 🌱 I’m currently learning interpreter and compiler development
-- 📫 How to reach me: danjovich@usp.br
-- ⌨️ My most used languages since May 2024:
+<!-- ![São Paulo, Brazil](https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brazil-black?logo=saopaulometro) -->
 
-![https://github-readme-stats-five-tawny-85.vercel.app/api/wakatime?username=@danjovich&layout=compact](https://github-readme-stats-five-tawny-85.vercel.app/api/wakatime?username=@danjovich&layout=compact)
+### Hi, I’m Daniel!
 
+I’m a Computer Engineering student and undergraduate researcher at the University of São Paulo (USP) in São Paulo, Brazil. Currently, I work as a full-stack developer at the condominium management startup [manu.help](https://manu.help). My main interests lie in web development, compiler and interpreter design, and machine learning, and my current research focuses on applying machine learning to analyze mooring line breakages in offshore oil platforms. My most relevant personal projects include:
 
-<!---
-danjovich/danjovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [![Marmoset](https://img.shields.io/badge/Marmoset-black?logo=go)](https://github.com/danjovich/marmoset), a simple programming language compiled to 32-bit ARM machines.
+- [![pomodoro-cli](https://img.shields.io/badge/Pomodoro%20CLI-black?logo=python)](https://github.com/danjovich/pomodoro-cli), a minimalistic CLI for the Pomodoro technique.
+- [![Playlist Creator for Spotify](https://img.shields.io/badge/Playlist%20Creator%20for%20Spotify-black?logo=typescript)](https://github.com/danjovich/playlist-creator-for-spotify-cli), a CLI for creating Spotify playlists of a specific genre.
+
+Here are my 10 most used programming languages since May 2024:
+
+<div align="center">
+  <img src="https://github-readme-stats-five-tawny-85.vercel.app/api/wakatime?username=@danjovich&langs_count=10&layout=compact"
+</div>
