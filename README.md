@@ -1,6 +1,7 @@
 <!-- ![São Paulo, Brazil](https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brazil-black?logo=saopaulometro) -->
 
 ### Hi, I’m Daniel!
+[![wakatime](https://wakatime.com/badge/user/6612fbea-4ab5-4a12-b452-4cca91b3336a.svg)](https://wakatime.com/@6612fbea-4ab5-4a12-b452-4cca91b3336a)
 
 I’m a Computer Engineering student and undergraduate researcher at the University of São Paulo (USP) in São Paulo, Brazil. Currently, I work as a full-stack developer at the condominium management startup [manu.help](https://manu.help). My main interests lie in web development, compiler and interpreter design, and machine learning, and my current research focuses on applying machine learning to analyze mooring line breakages in offshore oil platforms. My most relevant personal projects include:
 
